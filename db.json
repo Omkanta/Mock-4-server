@@ -1,21 +1,37 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "Fname": "omkant",
-      "Lname":"yadav",
-      "email":"omkant@gmail.com",
-      "password":"12345"
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "user_mail":"omkant@gmail.com",
-      "title": "Task 1",
-      "description": "Description for Task 1",
-      "status": "in-progress"
-    }
-  ]
-}
-
+[
+  {
+    "user_mail": "omkant@gmail.com",
+    "title": "Learn JS",
+    "description": "Learning JS",
+    "status": "done",
+    "id": 2
+  },
+  {
+    "user_mail": "omkant@gmail.com",
+    "title": "Assignment",
+    "description": "Submit assignment",
+    "status": "up-coming",
+    "id": 3
+  },
+  {
+    "user_mail": "omkant@gmail.com",
+    "title": "learn Express",
+    "description": "learning Express",
+    "status": "in-progress",
+    "id": 4
+  },
+  {
+    "user_mail": "deepak@mail.com",
+    "title": "learn soft skills",
+    "description": "improve communication ",
+    "status": "to-review",
+    "id": 5
+  },
+  {
+    "user_mail": "deepak@mail.com",
+    "title": "hackerRank",
+    "description": "check hacker Rank regularly ",
+    "status": "tracking",
+    "id": 6
+  }
+]
