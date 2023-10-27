@@ -1,19 +1,21 @@
 {
   "users": [
     {
-      "score": 7,
-      "user": "Omkant",
-      "id": 1
-    },
+      "id": 1,
+      "Fname": "omkant",
+      "Lname":"yadav",
+      "email":"omkant@gmail.com",
+      "password":"12345"
+    }
+  ],
+  "tasks": [
     {
-        "score": 8,
-        "user": "Om",
-        "id": 2
-      },
-      {
-        "score": 5,
-        "user": "Random1",
-        "id": 3
-      }
+      "id": 1,
+      "user_mail":"omkant@gmail.com",
+      "title": "Task 1",
+      "description": "Description for Task 1",
+      "status": "in-progress"
+    }
   ]
 }
+
